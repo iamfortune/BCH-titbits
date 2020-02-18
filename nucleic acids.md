@@ -9,5 +9,6 @@
 # Similarities 
 - both contain building blocks called nucleotides, a nucleotide is made up of a nitrogenous base, a sugar and a phosphoric acid. 
 - the nitrogenous base is a purine or a derivative of pyrimidine
+- the two major purines found in nucleic acid are Adenine and Guanine
 
 
