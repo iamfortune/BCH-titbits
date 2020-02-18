@@ -29,3 +29,5 @@
 - other purines found in nucleic acids is xanthine, hypoxanthine and uric acids.
 
 - uric acid is formed as an end product of purine catabolism in humans. 
+
+chemical formular of coffee is ("1,3,7 trimethyl xanthine").
