@@ -1,0 +1,1 @@
+these are macro molecules that transfer and store genetic information 
