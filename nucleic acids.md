@@ -6,7 +6,7 @@
 1. Ribonucleic acids (RNA) they contain ribose sugar
 2. Deoxyribonucleic acids (DNA) they contain deoxyribose sugar
 
-# Similarities 
+# Similarities between RNA and DNA
 - both contain building blocks called nucleotides, a nucleotide is made up of a nitrogenous base, a sugar and a phosphoric acid. 
 - the nitrogenous base is a purine or a derivative of pyrimidine
 - the two major purines found in nucleic acid are Adenine and Guanine
