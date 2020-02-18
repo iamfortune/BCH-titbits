@@ -36,4 +36,6 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 
 - the deoxyrinucleoside of thymine is called thymidine and non-deoxythymidine
 
-- nucleotides are nucleosides phosphorylated on one or morehydroxyl groups of the sugar e.g ("adenosine monophosphate (AMP) ")
+- nucleotides are nucleosides phosphorylated on one or morehydroxyl groups of the sugar e.g ("adenosine monophosphate (AMP) ").
+
+## The only sugar attached to a tracil is ribose and its commonly attached to thymine is deoxyribose. 
