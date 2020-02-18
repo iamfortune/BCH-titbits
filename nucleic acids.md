@@ -25,3 +25,7 @@
 
 # RNA 
 - RNA consists of 4 bases but in a place of thymine there is uracil therefore it's adenine, guanine, cytosine and uracil. 
+
+- other purines found in nucleic acids is xanthine, hypoxanthine and uric acids.
+
+- uric acid is formed as an end product of purine catabolism in humans. 
