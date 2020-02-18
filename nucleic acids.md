@@ -39,3 +39,5 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 - nucleotides are nucleosides phosphorylated on one or morehydroxyl groups of the sugar e.g ("adenosine monophosphate (AMP) ").
 
 ## The only sugar attached to a tracil is ribose and its commonly attached to thymine is deoxyribose. 
+
+- the common site of esterification is the hydroxyl group attached to the C-5 of the pentose. 
