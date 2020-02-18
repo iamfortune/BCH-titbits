@@ -56,3 +56,4 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 ## FUNCTIONS OF NUCLEOTIDES
 1. they are activated precursors of DNA and RNA
 2. nucleotide derivatives are activated intermediates in many biosynthesis e.g UDP - glocose, CDP - diacyl glycerol are precursors of glycogen and phosphoglycerides. 
+3. ATP is the universal currency of energy in biologicalo systems. 
