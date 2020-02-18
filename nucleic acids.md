@@ -31,3 +31,7 @@
 - uric acid is formed as an end product of purine catabolism in humans. 
 
 chemical formular of coffee is ("1,3,7 trimethyl xanthine").
+
+- pyrimidine nucleosides include cytidine and uridine.
+
+- the de0oxyrinucleoside of thymine is called thymidine and non-deoxythymidine
