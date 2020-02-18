@@ -34,4 +34,6 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 
 - pyrimidine nucleosides include cytidine and uridine.
 
-- the de0oxyrinucleoside of thymine is called thymidine and non-deoxythymidine
+- the deoxyrinucleoside of thymine is called thymidine and non-deoxythymidine
+
+- nucleotides are nucleosides phosphorylated on one or morehydroxyl groups of the sugar e.g ("adenosine monophosphate (AMP) ")
