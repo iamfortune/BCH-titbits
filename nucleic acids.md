@@ -52,3 +52,7 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 3. adenine + ribose = adenosine     adenylic acid, AMP                         ADP,  ATP-
 4. adenine + deoxyribose =          deoxyadenosine monophosphate dAMP          dADP, dATP
    deoxyadenosine  
+
+## FUNCTIONS OF NUCLEOTIDES
+1. they are activated precursors of DNA and RNA
+2. nucleotide derivatives 
