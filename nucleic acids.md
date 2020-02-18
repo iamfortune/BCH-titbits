@@ -21,4 +21,7 @@
 - the 3 major pyrimidies found in nucleic acids of both procaryotes and eucaryotes are cytosine, uracil and thymine
 
 # DNA 
-- DNA consists 4 bases namely adenine, guanine, cytosine and 
+- DNA consists 4 bases namely adenine, guanine, cytosine and thymine
+
+# RNA 
+- RNA consists of 4 bases but in a place of thymine there is uracil therefore it's adenine, guanine, cytosine and uracil. 
