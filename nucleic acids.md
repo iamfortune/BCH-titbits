@@ -44,3 +44,5 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 - compounds that do the above are called (nucleoside 5-phosphate or a 5' - nucleotide)
 
 ## WHAT IS ESTERIFICATION???
+
+## NUCLEOSDIES                  MONOPHOSPHATE NUCLEOTIDES               OTHER NUCLEOTIDES
