@@ -41,5 +41,6 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 ## The only sugar attached to a tracil is ribose and its commonly attached to thymine is deoxyribose. 
 
 - the common site of esterification is the hydroxyl group attached to the C-5 of the pentose. 
+- compounds that do the above are called (nucleoside 5-phosphate or a 5' - nucleotide)
 
 ## WHAT IS ESTERIFICATION???
