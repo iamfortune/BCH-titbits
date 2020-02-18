@@ -46,3 +46,4 @@ chemical formular of coffee is ("1,3,7 trimethyl xanthine").
 ## WHAT IS ESTERIFICATION???
 
 ## NUCLEOSDIES                  MONOPHOSPHATE NUCLEOTIDES               OTHER NUCLEOTIDES
+uracil + ribose = uridine        uridylic acid/uridine 5 phosphate           UDP, UTP 
