@@ -15,4 +15,4 @@
 dissociation constant of pure water Kw=[OH-][H+]=10-14m
 conveniently Ph = -log10[H+]
 
-PH is a measure of 
+PH is a measure of the acidity of a solution, so the lower the ph, the higher the acidity of the solution. 
