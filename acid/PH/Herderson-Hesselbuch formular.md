@@ -15,5 +15,5 @@ apply the definition of ph and pka
         PH = pka + log[A-]
                       [HA]
 
-# NOTE that this equatipon is useful in determining the properties of buffer solution
+# NOTE that this equatipon is useful in determining the properties of buffer solution and used to control the ph of reaction mixtures. 
 
