@@ -6,4 +6,8 @@
 - HCO3- (b) + H2O ----> H2CO3 (Ca) + OH- (Cb)
 
 - Lewis defined acid as a an electron acceptor (electrophile) and a base as nucleophile, they workn together to form a convalent bond 
--  
+-  A+(a) + B+(b) -----> A-B (co-ordinate convalent bond)
+
+- PH - when water is pure, it dissociates to H+ and OH-
+- H2O ----> H+  +  OH-  at 25'C
+- at 25'C, [H+] = [OH-] = 10
