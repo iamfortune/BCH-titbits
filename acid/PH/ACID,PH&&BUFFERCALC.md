@@ -10,9 +10,9 @@
 
 - PH - when water is pure, it dissociates to H+ and OH-
 - H2O ----> H+  +  OH-  at 25'C
-- at 25'C, [H+] = [OH-] = 10-7m in pure water 
+- at 25'C, [H+] = [OH-] = 10^-7m in pure water 
 
-dissociation constant of pure water Kw=[OH-][H+]=10-14m
+dissociation constant of pure water Kw=[OH-][H+]=10^-14m
 conveniently Ph = -log10[H+]
 
 PH is a measure of the acidity of a solution, so the lower the ph, the higher the acidity of the solution. 
